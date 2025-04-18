@@ -1,0 +1,3 @@
+[submodule "bonjour"]
+	path = bonjour
+	url = https://github.com/deinman/bonjour
